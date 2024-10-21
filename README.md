@@ -11,7 +11,6 @@ I'm an aspiring computer science student and machine learning enthusiast current
 
 - Machine Learning & AI
 - Data Science
-- Web Development
 - Python Programming
 - Gaming
 
