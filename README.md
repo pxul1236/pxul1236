@@ -1,4 +1,4 @@
-# Hello, I'm @pxul1236 👋
+# Hello, I'm Paul 👋
 
 I'm an aspiring computer science student and machine learning enthusiast currently studying at Griffith University. My journey in technology began with a passion for programming, which led me to explore various fields such as AI/ML, data science, and web development.
 
