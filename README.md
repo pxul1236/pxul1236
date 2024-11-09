@@ -5,7 +5,7 @@ I'm an aspiring computer science student and machine learning enthusiast current
 ## 🔭 Currently Working On
 
 - Developing machine learning models and working on exciting projects to gain hands-on experience.
-- Enhancing my skills with ML libraries like Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, and TensorFlow.
+- Enhancing my skills with Flask and ML libraries like scikit-learn, and TensorFlow.
 
 ## 💼 Interests
 
