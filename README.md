@@ -17,7 +17,7 @@ I'm an aspiring computer science student and machine learning enthusiast current
 ## 📚 Learning
 
 - Db
-- Advanced Machine Learning Techniques
+- NLP
 - Web Scraping
 
 ## 💻 Tech Stack:
