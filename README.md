@@ -1,4 +1,4 @@
-CS student @ Griffith · Building things in data people actually use <br>
+CS student @ Griffith · Building things in data, people actually use <br>
 Gold Coast, AU <br>
 🦅
 <br>
